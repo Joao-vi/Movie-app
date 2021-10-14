@@ -17,3 +17,6 @@ App feito para treinar as seguintes habilidades:
   * TMDB API
   * Slicky slider
 
+## Fotos
+
+![11](https://user-images.githubusercontent.com/83383626/137322425-0ec9d555-e088-4618-a32e-d9f83a774c71.png)
